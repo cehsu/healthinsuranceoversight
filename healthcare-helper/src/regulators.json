@@ -1,0 +1,287 @@
+[
+  {
+    "State": "OH",
+    "Title": "Ohio Department of Insurance",
+    "url": "https://gateway.insurance.ohio.gov/UI/ODI.CS.Public.UI/Complaint.mvc/DisplayConsumerComplaintForm"
+  },
+  {
+    "State": "DC",
+    "Title": "DC Department of Insurance Securities and Banking",
+    "url": "http://dcforms.dc.gov/webform/consumer-complaint-form-disb-0"
+  },
+  {
+    "State": "AL",
+    "Title": "Alabama Department of Insurance",
+    "url": "https://sbs-al.naic.org/Lion-Web/servlet/org.naic.sbs.ext.onlineComplaint.OnlineComplaintCtrl?spanishVersion=N"
+  },
+  {
+    "State": "AK",
+    "Title": "Alaska Department of Commerce Community and Economic Development",
+    "url": "https://sbs-ak.naic.org/Lion-Web/servlet/org.naic.sbs.ext.onlineComplaint.OnlineComplaintCtrl?spanishVersion=N"
+  },
+  {
+    "State": "AZ",
+    "Title": "Arizona Department of Insurance",
+    "url": "https://insurance.az.gov/sites/default/files/documents/files/Request%20for%20Assistance%20Form%20%282%29.pdf"
+  },
+  {
+    "State": "AR",
+    "Title": "Arkansas Insurance Department",
+    "url": "https://sbs.naic.org/solar-web/pages/public/onlineComplaintForm/onlineComplaintForm.jsf?state=AR&dswid=-1766"
+  },
+  {
+    "State": "CA",
+    "Title": "California Department of Insurance",
+    "url": "https://cdiapps.insurance.ca.gov/CP/create-complaint-page/"
+  },
+  {
+    "State": "CO",
+    "Title": "Colorado Department of Regulatory Agencies",
+    "url": "http://www.dora.state.co.us/pls/real/Ins_Complaint.Submit_Form"
+  },
+  {
+    "State": "CT",
+    "Title": "Connecticut Insurance Department",
+    "url": "https://cidonline.ct.gov/ccf/"
+  },
+  {
+    "State": "DE",
+    "Title": "Delaware Department of Insurance",
+    "url": "https://sbs.naic.org/solar-web/pages/public/onlineComplaintForm/onlineComplaintForm.jsf?state=DE&dswid=-8043"
+  },
+  {
+    "State": "FL",
+    "Title": "Florida Chief Financial Officer Division of Consumer Services",
+    "url": "https://apps.fldfs.com/ESERVICE/Newrequest.aspx"
+  },
+  {
+    "State": "GA",
+    "Title": "Georgia Office of Insurance and Safety Fire Commissioner",
+    "url": "https://www.oci.ga.gov/ConsumerService/complaintprocess.aspx"
+  },
+  {
+    "State": "HI",
+    "Title": "Hawaii Department of Commerce and Consumer Affairs",
+    "url": "http://cca.hawaii.gov/ins/consumer/health/filing_complaint_against_health_insurer_or_plan/"
+  },
+  {
+    "State": "ID",
+    "Title": "Idaho Department of Insurance",
+    "url": "https://apps.doi.idaho.gov/Consumer/ComplaintSubmit"
+  },
+  {
+    "State": "IL",
+    "Title": "Illinois Department of Insurance",
+    "url": "https://mc.insurance.illinois.gov/messagecenter.nsf"
+  },
+  {
+    "State": "IN",
+    "Title": "Indiana Department of Insurance",
+    "url": "http://www.in.gov/idoi/2552.htm"
+  },
+  {
+    "State": "IA",
+    "Title": "Iowa Insurance Division",
+    "url": "https://iid.iowa.gov/insurance-consumer-complaint"
+  },
+  {
+    "State": "KS",
+    "Title": "Kansas Insurance Department",
+    "url": "https://sbs.naic.org/solar-web/pages/public/onlineComplaintForm/onlineComplaintForm.jsf?state=KS&dswid=-2326"
+  },
+  {
+    "State": "KY",
+    "Title": "Kentucky Department of Insurance",
+    "url": "http://insurance.ky.gov/online_complaint.aspx"
+  },
+  {
+    "State": "LA",
+    "Title": "Louisiana Department of Insurance",
+    "url": "https://www.ldi.la.gov/OnlineServices/ConsumerComplaintForm/Complaints"
+  },
+  {
+    "State": "ME",
+    "Title": "Maine Bureau of Insurance",
+    "url": "http://www.maine.gov/pfr/insurance/eform_chcd.html"
+  },
+  {
+    "State": "MD",
+    "Title": "Maryland Insurance Administration",
+    "url": "http://insurance.maryland.gov/Consumer/Documents/lh-agcomplaintform02-11rev.pdf"
+  },
+  {
+    "State": "MA",
+    "Title": "Massachusetts Office of Consumer Affairs and Business Regulation",
+    "url": "http://www.mass.gov/ocabr/docs/doi/consumer/css-complaint-form.pdf"
+  },
+  {
+    "State": "MI",
+    "Title": "Michigan Department of Insurance and Financial Services",
+    "url": "http://www.michigan.gov/documents/lara/FIS_2257_Brochure_-_for_web_361289_7.pdf"
+  },
+  {
+    "State": "MN",
+    "Title": "Minnesota Department of Commerce",
+    "url": "https://mn.gov/commerce/consumers/file-a-complaint/"
+  },
+  {
+    "State": "MP",
+    "Title": "Northern Mariana Islands",
+    "url": "https://eapps.naic.org/cis/fileComplaintForm.do?complaintState=MP&Mode=EMAIL"
+  },
+  {
+    "State": "MS",
+    "Title": "Missippi Insurance Department",
+    "url": "http://www.mid.ms.gov/consumers/online-complaint.aspx"
+  },
+  {
+    "State": "MO",
+    "Title": "Missouri Department of Insurance",
+    "url": "https://www.insurance.mo.gov/consumers/complaints/consumerComplaint.php"
+  },
+  {
+    "State": "MT",
+    "Title": "Montana Commissioner of Securities and Insurance",
+    "url": "https://sbs.naic.org/solar-web/pages/public/onlineComplaintForm/onlineComplaintForm.jsf?state=MT&dswid=-4344"
+  },
+  {
+    "State": "NE",
+    "Title": "Nebraska Department of Insurance",
+    "url": "https://sbs-ne.naic.org/Lion-Web/servlet/org.naic.sbs.ext.onlineComplaint.OnlineComplaintCtrl?spanishVersion=N"
+  },
+  {
+    "State": "NV",
+    "Title": "Nevada Division of Insurance",
+    "url": "http://doi.nv.gov/Consumers/File-A-Complaint/"
+  },
+  {
+    "State": "NH",
+    "Title": "New Hampshire Insurance Department",
+    "url": "https://sbs-nh.naic.org/Lion-Web/servlet/org.naic.sbs.ext.onlineComplaint.OnlineComplaintCtrl?spanishVersion=N"
+  },
+  {
+    "State": "NJ",
+    "Title": "New Jersey Department of Banking and Insurance",
+    "url": "https://sbs-nj.naic.org/Lion-Web/servlet/org.naic.sbs.ext.onlineComplaint.OnlineComplaintCtrl?spanishVersion=N"
+  },
+  {
+    "State": "NM",
+    "Title": "New Mexico Office of Superintendent of Insurance",
+    "url": "http://www.osi.state.nm.us/consumer-assistance/forms/managed-healthcare.html"
+  },
+  {
+    "State": "NY",
+    "Title": "New York Department of Financial Services",
+    "url": "https://myportal.dfs.ny.gov/web/guest-applications/consumer-complaint"
+  },
+  {
+    "State": "NC",
+    "Title": "North Carolina Department of Insurance",
+    "url": "https://secure1.ncdoi.net/consumer/conCompForm.jsp"
+  },
+  {
+    "State": "ND",
+    "Title": "North Dakota Insurance Department",
+    "url": "http://www.nd.gov/ndins/consumers/complaint/"
+  },
+  {
+    "State": "OK",
+    "Title": "Oklahoma Insurance Department",
+    "url": "https://sbs-ok.naic.org/Lion-Web/servlet/org.naic.sbs.ext.onlineComplaint.OnlineComplaintCtrl?spanishVersion=N"
+  },
+  {
+    "State": "OR",
+    "Title": "Oregon Division of Financial Regulation",
+    "url": "https://sbs.naic.org/solar-web/pages/public/onlineComplaintForm/onlineComplaintForm.jsf?state=or&dswid=-8401"
+  },
+  {
+    "State": "PA",
+    "Title": "Pennsylvania Insurance Department",
+    "url": "http://www.insurance.pa.gov/Consumers/File%20a%20Complaint/Pages/default.aspx"
+  },
+  {
+    "State": "RI",
+    "Title": "Rhode Island and Providence Plantations Department of Business Regulations",
+    "url": "https://sbs.naic.org/solar-web/pages/public/onlineComplaintForm/onlineComplaintForm.jsf?state=RI&dswid=-4616#_ga=1.105625667.1572612773.1489170338"
+  },
+  {
+    "State": "SC",
+    "Title": "South Carolina Department of Insurance",
+    "url": "https://online.doi.sc.gov/eng/public/consumer/complaint.aspx"
+  },
+  {
+    "State": "SD",
+    "Title": "South Dakota Department of Labor and Regulation",
+    "url": "http://dlr.sd.gov/insurance/doi_complaint.aspx"
+  },
+  {
+    "State": "TN",
+    "Title": "Tennessee Department of Commerce and Insurance",
+    "url": "https://sbs-tn.naic.org/Lion-Web/servlet/org.naic.sbs.ext.onlineComplaint.OnlineComplaintCtrl?spanishVersion=N"
+  },
+  {
+    "State": "TX",
+    "Title": "Texas Department of Insurance",
+    "url": "http://www.tdi.texas.gov/consumer/complfrm.html#four"
+  },
+  {
+    "State": "UT",
+    "Title": "Utah Insurance Department",
+    "url": "https://insurance.utah.gov/complaint/"
+  },
+  {
+    "State": "VT",
+    "Title": "Vermont Department of Financial Regulation",
+    "url": "http://www.dfr.vermont.gov/insurance/insurance-consumer/file-insurance-complaint"
+  },
+  {
+    "State": "VA",
+    "Title": "Commonwealth of Virginia State Corporation Commission",
+    "url": "https://www.scc.virginia.gov/boi/compelec.aspx"
+  },
+  {
+    "State": "WA",
+    "Title": "Washington State Office of the Insurance Commissioner",
+    "url": "https://fortress.wa.gov/oic/onlineservices/cc/pub/complaintinformation.aspx"
+  },
+  {
+    "State": "WV",
+    "Title": "West Virginia Offices of the Insurance Commissioner",
+    "url": "https://sbs-wv.naic.org/Lion-Web/servlet/org.naic.sbs.ext.onlineComplaint.OnlineComplaintCtrl?spanishVersion=N"
+  },
+  {
+    "State": "WI",
+    "Title": "Wisconsin Office of the Commissioner of Insurance",
+    "url": "https://ociaccess.oci.wi.gov/complaints/public/receiveComplaint;jsessionid=5E79E62F844AD967258F6CF797A01FA6.prodTwo?execution=e1s1"
+  },
+  {
+    "State": "WY",
+    "Title": "Wyoming Department of Insurance",
+    "url": "http://doi.wyo.gov/consumers/consumer-request-for-assistance/file-a-complaint/consumer-request-for-assistance-form"
+  },
+  {
+    "State": "AS",
+    "Title": "American Samoa Department of Insurance",
+    "url": "(684) 633-4163"
+  },
+  {
+    "State": "FM",
+    "Title": "Federated States of Micronesia Insurance Board",
+    "url": "http://www.fsminsuranceboard.com/contacts.asp"
+  },
+  {
+    "State": "GU",
+    "Title": "Guam Department of Revenue and Taxation Regulatory Division",
+    "url": "https://www.guamtax.com/about/regulatory.html"
+  },
+  {
+    "State": "PR",
+    "Title": "Puerto Rico",
+    "url": "https://eapps.naic.org/cis/fileComplaintForm.do?complaintState=PR&Mode=EMAIL"
+  },
+  {
+    "State": "VI",
+    "Title": "Puerto Rico",
+    "url": "https://eapps.naic.org/cis/fileComplaintForm.do?complaintState=VI&Mode=EMAIL"
+  }
+]
